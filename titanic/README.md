@@ -13,7 +13,8 @@ El objetivo es identificar qué factores influyeron más en la probabilidad de s
 ## Estructura del proyecto
 - `analisis_titanic.ipynb` — notebook principal con el análisis completo
 - `train.csv` — dataset original de Kaggle
-- `supervivencia_titanic.png` — gráfico resumen exportado (más detalle en notebook)
+- `supervivencia_titanic.png` — gráfico resumen de la tasa de supervivencia
+- `supervivencia_titanic_barras_apiladas.png` - gráfico resumen ampliado con barras apiladas para mostrar el total por cada categoría
 
 ## Principales conclusiones
 - La tasa de supervivencia general fue del 38.2 %.
