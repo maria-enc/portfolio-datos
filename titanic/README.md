@@ -22,7 +22,7 @@ El objetivo es identificar qué factores influyeron más en la probabilidad de s
 - Viajar en primera clase daba ventaja: el porcentaje de supervivientes decae con la clase (1 > 2 > 3).
 - Los grupos de edad muestran que los más jóvenes presentan tasas más altas de supervivencia.
 - Los niños menores de 10 años pertenecientes a la tercera clase tenían menos probabilidad de sobrevivir que los pertenecientes a las otras dos clases.
-- Las personas pertenecientes a familias con un número de miembros menor de 4 tuvieron más probabilidad de sobrevivir que las más numerosas. 
+- Las personas pertenecientes a familias con un número de miembros entre 1 y 2 tuvieron más probabilidad de sobrevivir que las más o menos numerosas. 
 - A pesar de que más personas embarcaron en Southampton respecto a los otros dos puertos, presentan una menor tasa de supervivencia, sobre todo comparando con el puerto de Cherbourg. En este puerto hubo en proporción más embarcados pertenecientes a la primera clase.
 
 ## Cómo ejecutar el notebook
