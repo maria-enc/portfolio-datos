@@ -15,24 +15,27 @@ en IA.
 - Python 3.11
 - yfinance — descarga de datos financieros en tiempo real
 - pandas — manipulación y análisis de series temporales
-- matplotlib / seaborn — visualización estática
+- numpy - cálculos matemáticos
+- matplotlib — visualización estática
 - plotly — gráficos interactivos
 - Jupyter Notebook — entorno de análisis
 
 ## Estructura del proyecto
 - `analisis_financiero_ibex.ipynb` — notebook principal con el análisis completo
+- `correlacion_2019_2026.html` - html con el gráfico que muestra la correlación entre los índices bursátiles
+- `sharpe_rolling_2019_2026.html` - html con el gráfico que muestra la relación entre el Ratio Sharpe total y el rolling a 12 meses
 
 ## Contenido del análisis
-- Descarga de datos históricos (2020-2025) vía Yahoo Finance
+- Descarga de datos históricos (2019-2026) vía Yahoo Finance
 - Cálculo de retornos diarios y acumulados
-- Análisis de volatilidad anualizada por activo con días reales de cotización
+- Análisis de volatilidad anualizada por activo 
 - Volatilidad móvil a 30 días
 - Correlación entre activos
 - Sharpe Ratio (rentabilidad ajustada al riesgo)
-- Dashboard interactivo con Plotly
+- Dashboards interactivos con Plotly
 
 ## Estado
-🚧 En desarrollo — análisis de volatilidad en revisión
+🚧 En desarrollo — conclusiones en revisión
 
 ## Cómo ejecutar el notebook
 1. Clona el repositorio: `git clone https://github.com/mary-enc/portfolio-datos.git`
